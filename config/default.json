@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb://joefstack:pass123@ds335648.mlab.com:35648/intelense-dev",
+  "jwtSecret": "secret"
+}
